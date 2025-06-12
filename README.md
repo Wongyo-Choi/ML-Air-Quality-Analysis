@@ -10,10 +10,10 @@ This repository contains a comprehensive exploration of air quality prediction u
 
 ```
 .
-├── data/
-│   └── sensor_data.xlsx       # Raw dataset of hourly‑averaged measurements
-├── air_quality_analysis.ipynb  # Single notebook containing all code and experiments
-└── README.md                   
+├── sensor_data.xlsx               # Raw dataset of hourly‑averaged measurements
+├── air_quality_analysis.ipynb     # Single notebook containing all code and experiments
+├── Air_Quality_Analysis_Report.pdf# Generated PDF report
+└── README.md                      # This file             
 ```
 
 ---
